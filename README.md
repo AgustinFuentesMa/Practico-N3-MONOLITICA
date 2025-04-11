@@ -1,1 +1,1 @@
-# Practico-N3-MONOLITICA
+Las ventajas que se observan de la arquitectura de 3 capas sobre la monolitica son: Modularidad y Separación de Responsabilidades, Escalabilidad Mejorada, Flexibilidad para implementar nuevas tecnologías, mantenimiento y actualizaciones más eficientes 
